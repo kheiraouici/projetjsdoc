@@ -1,0 +1,17 @@
+{
+  "name": "projetjsdoc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "doc" : "jsdoc -c jsdoc.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jsdoc": "^4.0.4"
+  },
+  "dependencies": {
+    "js": "^0.1.0"
+  }
+}
